@@ -29,3 +29,4 @@
 
 >FOCUS™ is instrumental in helping FinOps Practitioners streamline their operations, enabling them to make data-driven decisions that enhance the business value derived from cloud investments. By standardizing data across different cloud platforms, FOCUS™ not only facilitates easier management but also ensures that the skills of FinOps professionals are more transferable across various clouds, tools, and organizations.
 
+
