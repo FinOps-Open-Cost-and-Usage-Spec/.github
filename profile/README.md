@@ -8,7 +8,7 @@
 </head>
     <tr>
         <td rowspan="4">
-            <img src="https://github.com/user-attachments/assets/cd5717e8-383f-4530-bb54-9e17522c8375" alt="FOCUS Logo"
+            <img width="249" alt="image" src="https://github.com/user-attachments/assets/28da78f1-824c-43df-a7f7-c19995fd9a19" />
         </td>
         <td><strong>Tech Specification</strong></td>
         <td><strong>Process</strong></td>
